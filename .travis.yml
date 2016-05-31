@@ -9,7 +9,7 @@ git:
     depth: 1
 
 node_js:
-  - "4"
+  - "6.0"
 
 php:
   - 5.4
